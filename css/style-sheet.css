@@ -213,12 +213,11 @@ a {
     list-style: none;
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
     color: #7380B6;
-    padding-top: 25px;
 }
 
 .media-li {
     display: flex;
-    margin: 25px 0;
+    margin: 50px 0;
 }
 
 .media-description {
