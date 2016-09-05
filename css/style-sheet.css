@@ -41,6 +41,19 @@ body {
     margin-top: 50px;
 }
 
+.form-wrapper {
+    width: 50%;
+    margin: 0 auto;
+    padding: 75px 0px;
+}
+
+.form-title {
+    font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+    color: #364799;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
 .nav {
     margin: 0 auto;
     list-style: none;
@@ -149,17 +162,17 @@ a {
     height:auto;
 }
 
-.donate-title {
+.video-caption {
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
     font-weight: 100;
-    font-size: 19px;
+    font-size: 14px;
     color: #374997;
     text-align: center;
-    margin-bottom: 25px;
+    margin: 25px;
 }
 
-.donate-wrapper {
-    padding: 40px;
+.video-caption-wrapper {
+    /*padding: 40px;*/
 }
 
 #the_team {
